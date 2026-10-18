@@ -1,0 +1,65 @@
+INDIA NEWS TODAY | HINGLISH YOUTUBE SCRIPT
+Based on the supplied RSS script | 8 October 2026
+Tone: conversational, lightly sarcastic, fact-first
+
+VIDEO TITLE
+India News: Haryana ke Pending Cases, Kerala HC ka Attire Verdict aur Safety Advisory
+
+OPENING HOOK
+Aaj ki headlines mein Haryana ke pending cases kam hue, Kerala High Court ne kapdon par choice clear ki, Rajasthan se ek detention ka allegation aaya, aur Saudi Arabia mein Indians ke liye safety advisory jaari hui. Matlab news cycle ne aaj bhi calendar ko weekend samajhne se mana kar diya.
+
+HOST INTRO
+Namaskar dosto! Aaj ki news roundup mein baat karenge election-related hearings, personal choice, Rajasthan se aaye ek allegation, aur Saudi Arabia mein Indian citizens ki safety ki. Facts ko facts rakhenge, claims ko claims, aur speculation ko comments section ke liye bhi thoda kam hi chhodenge. Chaliye shuru karte hain.
+
+STORY 1: HARYANA MEIN PENDING SIR HEARINGS
+ON-SCREEN TEXT: Haryana: 57,339 hearings disposed
+
+Haryana ke Chief Electoral Officer ne pending Special Intensive Revision, yaani SIR notices par teen din ka drive chalaya. Is dauraan 57,339 pending hearing cases dispose kiye gaye. Ab bhi 2,85,834 cases hearing ka wait kar rahe hain.
+
+Teen din mein itne cases clear hona ek significant update hai. Lekin 2.85 lakh log ab bhi queue mein hain, toh kaam khatam nahi, bas queue thodi chhoti hui hai. Sarkari process mein “pending” shabd ka stamina kabhi underestimate mat kijiye.
+
+SOURCE: The Hindu
+PUBLISHED: 8 October 2026, 19:35 UTC
+LINK: https://www.thehindu.com/news/national/haryana/haryana-ceo-launches-three-day-drive-to-clear-pending-sir-notices/article71560408.ece
+
+STORY 2: KERALA HIGH COURT AUR KAPDON KI CHOICE
+ON-SCREEN TEXT: Kerala HC: Attire is a citizen's choice
+
+Kerala High Court ne kaha ki attire, yaani kapdon ka chunav, ek citizen ki personal choice hai. Case Kollam ke ek school headmistress ki petition se juda tha. Unka allegation tha ki churidar-kameez pehenne par school manager ne unhe entry nahi di, jabki woh sari ke bajay ye outfit pehen kar aayi thi.
+
+Court ka point simple hai: kapde pehenne wale ke, choice bhi pehenne wale ki. Kapdon par dress code debate kabhi-kabhi itni lambi chalti hai ki lagta hai wardrobe ko bhi apna legal counsel rakhna padega.
+
+SOURCE: The Hindu
+PUBLISHED: 8 October 2026, 19:22 UTC
+LINK: https://www.thehindu.com/news/national/kerala/attire-is-a-citizens-choice-kerala-hc-backs-school-headmistress-over-churidar-row/article71558732.ece
+
+STORY 3: RAJASTHAN POLICE PAR DETENTION KA ALLEGATION
+ON-SCREEN TEXT: CJP spokesperson allegedly picked up
+
+Citizens for Justice and Peace, yaani CJP, ne claim kiya hai ki unke spokesperson ko Rajasthan Police ne pick up kiya. CJP ke mutabik, yeh October 10 ko planned protest se pehle hua. Abhi available report mein detention ki wajah par poori clarity nahi hai, isliye isse allegation ke roop mein hi report karna zaroori hai.
+
+Yahan facts se aage jaana theek nahi hoga. Aage ki details saamne aayengi toh picture clearer hogi; tab tak headline ko headline hi rehne dete hain, courtroom ka verdict nahi banate.
+
+SOURCE: The Indian Express
+PUBLISHED: 8 October 2026, 18:17 UTC
+LINK: https://indianexpress.com/article/india/cjp-claims-spokesperson-deepak-baliyan-picked-up-by-rajasthan-police-ahead-of-october-10-protest-10913090/
+
+STORY 4: SAUDI ARABIA MEIN INDIAN EMBASSY KI ADVISORY
+ON-SCREEN TEXT: Indians in Saudi Arabia: Stay indoors advisory
+
+Saudi Arabia mein Indian Embassy ne citizens ko indoors rehne ki advisory di. Yeh advisory region mein Houthi attack ke baad aayi hai. Saudi Arabia mein reh rahe Indians ko local authorities ke instructions follow karne chahiye aur embassy ki updates par nazar rakhni chahiye.
+
+Is story mein punchline se zyada zaroori precaution hai. Agar aap ya aapke family members wahan hain, official advisory ko priority dijiye aur safe rahiye.
+
+SOURCE: The Indian Express
+PUBLISHED: 8 October 2026, 14:34 UTC
+LINK: https://indianexpress.com/article/india/indian-embassy-in-saudi-issues-advisory-to-stay-indoors-after-houthi-attack-10912946/
+
+OUTRO
+Toh dosto, aaj ki updates mein process, personal choice, ek reported allegation aur ek important safety advisory shamil thi. Sources ke links description mein hain, khud bhi check kijiye, aur kisi bhi developing story par nayi verified information ka wait kijiye. Video useful laga ho toh like aur subscribe karein. Milte hain next update mein. Tab tak informed rahiye, safe rahiye, aur headlines ko forward karne se pehle ek baar source zaroor dekh lijiye. Namaskar!
+
+VIDEO DESCRIPTION
+8 October 2026 ki India news roundup: Haryana mein 57,339 pending SIR hearing cases dispose hue, Kerala High Court ne attire ko personal choice bataya, CJP ne Rajasthan Police ke khilaaf spokesperson detention ka allegation lagaya, aur Saudi Arabia mein Indian Embassy ne safety advisory jaari ki. Har story ke original source links script mein diye gaye hain. Developing details ke liye original reports aur official advisories check karein.
+
+HASHTAGS
+#IndiaNews #Hinglish #NewsUpdate #Haryana #KeralaHighCourt #Rajasthan #SaudiArabia #CurrentAffairs

@@ -1,0 +1,73 @@
+{
+  "video_title": "India News Today: Haryana Electoral Drive, Kerala HC Attire Ruling & More",
+  "language": "English",
+  "target_duration_minutes": 4,
+  "opening_hook": "Good evening, and welcome to our special news update, bringing you the latest from across India and beyond.",
+  "host_intro": "I'm your presenter, and tonight, we delve into significant developments, from electoral process updates in Haryana and a landmark court ruling in Kerala, to concerns over civil liberties in Rajasthan and a crucial safety advisory for Indians abroad.",
+  "stories": [
+    {
+      "headline": "Haryana Election Body Addresses Pending Notices",
+      "source": "The Hindu",
+      "published_at": "2026-10-08T19:35:42+00:00",
+      "source_url": "https://www.thehindu.com/news/national/haryana/haryana-ceo-launches-three-day-drive-to-clear-pending-sir-notices/article71560408.ece",
+      "key_points": [
+        "Haryana CEO conducted a three-day drive",
+        "57,339 pending hearing cases were disposed",
+        "Reduced cases awaiting hearings to 2,85,834"
+      ],
+      "narration": "The Haryana Chief Electoral Officer recently concluded a three-day initiative aimed at resolving pending Special Intensive Revision, or SIR, notices. During this drive, a significant 57,339 cases that were awaiting hearings were successfully cleared. This effort has reportedly reduced the total number of cases awaiting hearings to just over 285,000 across the state. This move is part of an ongoing effort to streamline electoral processes.",
+      "on_screen_text": "Haryana SIR Notice Drive"
+    },
+    {
+      "headline": "Kerala High Court Upholds Personal Attire Choice",
+      "source": "The Hindu",
+      "published_at": "2026-10-08T19:22:47+00:00",
+      "source_url": "https://www.thehindu.com/news/national/kerala/attire-is-a-citizens-choice-kerala-hc-backs-school-headmistress-over-churidar-row/article71558732.ece",
+      "key_points": [
+        "Kerala High Court ruled on a headmistress's attire",
+        "Court stated attire is a citizen's choice",
+        "Case involved a school manager allegedly denying entry for wearing churidar-kameez instead of a sari"
+      ],
+      "narration": "In a notable decision, the Kerala High Court has affirmed that attire is a citizen's personal choice. The court was considering a petition from a school headmistress in Kollam, who sought to disqualify her school manager. She alleged that she was denied entry for wearing a churidar-kameez instead of a sari. The court's ruling supports the individual's right to choose their clothing, highlighting a significant aspect of personal freedom.",
+      "on_screen_text": "Kerala HC on Attire"
+    },
+    {
+      "headline": "CJP Alleges Spokesperson Detained in Rajasthan",
+      "source": "The Indian Express",
+      "published_at": "2026-10-08T18:17:06+00:00",
+      "source_url": "https://indianexpress.com/article/india/cjp-claims-spokesperson-deepak-baliyan-picked-up-by-rajasthan-police-ahead-of-october-10-protest-10913090/",
+      "key_points": [
+        "Citizens for Justice and Peace (CJP) claims spokesperson picked up",
+        "Detention by Rajasthan police reported",
+        "Occurred ahead of an October 10 protest"
+      ],
+      "narration": "Citizens for Justice and Peace, or CJP, has claimed that their spokesperson was picked up by Rajasthan police. This alleged incident occurred ahead of a planned protest scheduled for October 10th. The CJP has raised concerns regarding the reported detention. Further details regarding the reasons for the reported detention remain unclear at this time.",
+      "on_screen_text": "CJP Spokesperson Allegedly Detained"
+    },
+    {
+      "headline": "Indian Embassy in Saudi Issues Safety Advisory",
+      "source": "The Indian Express",
+      "published_at": "2026-10-08T14:34:24+00:00",
+      "source_url": "https://indianexpress.com/article/india/indian-embassy-in-saudi-issues-advisory-to-stay-indoors-after-houthi-attack-10912946/",
+      "key_points": [
+        "Indian embassy in Saudi Arabia issued an advisory",
+        "Urged citizens to stay indoors",
+        "Advisory followed a Houthi attack"
+      ],
+      "narration": "The Indian Embassy in Saudi Arabia has issued a safety advisory for its citizens, urging them to stay indoors. This directive comes in the aftermath of a reported Houthi attack in the region. The advisory emphasizes caution and adherence to local safety guidelines for all Indian nationals currently in Saudi Arabia.",
+      "on_screen_text": "Indian Embassy Saudi Advisory"
+    }
+  ],
+  "outro": "That's all for this evening's news brief. Thank you for tuning in. Stay informed, stay safe, and we'll see you next time.",
+  "youtube_description": "Catch up on the latest news from India. This bulletin covers the Haryana CEO's drive to clear SIR notices, the Kerala High Court's stance on personal attire, allegations of a CJP spokesperson's detention in Rajasthan, and a safety advisory from the Indian Embassy in Saudi Arabia. Stay informed with our concise news summary.",
+  "hashtags": [
+    "#IndiaNews",
+    "#Haryana",
+    "#KeralaHighCourt",
+    "#RajasthanPolice",
+    "#SaudiArabia",
+    "#IndianEmbassy",
+    "#NewsUpdate",
+    "#CurrentAffairs"
+  ]
+}

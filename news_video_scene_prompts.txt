@@ -1,0 +1,220 @@
+INDIA NEWS TODAY | SCENE-BY-SCENE AI VIDEO PROMPTS
+Companion to news_script_hinglish.txt
+Format: 16:9 landscape, 1080p, editorial YouTube news package
+Visual approach: contemporary Indian newsroom, crisp documentary-style b-roll,
+subtle dry humor in transitions, neutral colors, natural movement, legible pacing.
+
+HOW TO USE
+Generate each scene as a separate clip using its VIDEO PROMPT. Keep the same
+presenter/avatar, wardrobe, color grade, and music bed across clips if your tool
+supports continuity. Add the supplied ON-SCREEN TEXT in your video editor rather
+than asking the video model to render lettering. Lay the supplied VOICEOVER over
+the clip, trimming or extending b-roll to match the narration. Durations below
+are approximate; the full voiceover may need longer than a single generated clip.
+
+GLOBAL INSTRUCTIONS FOR EVERY SCENE
+Create original editorial news visuals, not a recreation of footage from any
+publisher or broadcaster. Use a calm, credible Indian news presenter in a simple
+modern studio only for the intro and outro; use illustrative b-roll for reports.
+Natural expressions and gestures, respectful representation, clean composition,
+subtle camera motion, realistic lighting, no sensationalism. Avoid logos, watermarks,
+fake newspaper front pages, fake official documents, fabricated quotes, and
+AI-generated text. Do not depict a real named person or imply that illustrative
+footage is authentic evidence. Use only the provided captions in post-production.
+
+NEGATIVE PROMPT
+No political party logos or campaign symbols, no fabricated police bodycam or
+detention footage, no identifiable real people, no explosion or attack reenactment,
+no injury imagery, no panic, no stereotypes, no distorted hands or faces, no
+garbled lettering, no source logos, no watermark, no dramatic breaking-news
+sirens, no misleading map borders, no fake evidence.
+
+SCENE 1 | OPENING MONTAGE
+Approximate duration: 8-12 seconds
+Purpose: Hook the viewer and preview the four stories.
+
+VIDEO PROMPT
+Create a fast but composed opening montage for an Indian current-affairs YouTube
+bulletin. Start with a clean digital map of India made from neutral lines, then
+quickly cut through four symbolic shots: a long paper queue becoming shorter,
+a neatly arranged set of everyday clothing, a quiet Rajasthan street with a
+protest date on a generic calendar shown without readable text, and an Indian
+traveller checking a phone indoors in a calm Gulf-region apartment. End on a
+confident Indian presenter in a contemporary compact newsroom, looking into
+camera. Editorial, informed, lightly witty pacing, not sensational. Leave clear
+negative space for captions. No readable text generated in the video.
+
+VOICEOVER
+Aaj ki headlines mein Haryana ke pending cases kam hue, Kerala High Court ne
+kapdon par choice clear ki, Rajasthan se ek detention ka allegation aaya, aur
+Saudi Arabia mein Indians ke liye safety advisory jaari hui. Matlab news cycle
+ne aaj bhi calendar ko weekend samajhne se mana kar diya.
+
+ON-SCREEN TEXT
+INDIA NEWS TODAY
+Haryana | Kerala | Rajasthan | Saudi Arabia
+
+SCENE 2 | PRESENTER INTRO
+Approximate duration: 10-15 seconds
+
+VIDEO PROMPT
+Medium shot of the same Indian presenter at a modern, uncluttered news desk.
+Behind them, a softly lit wall display shows abstract non-readable map lines and
+four simple icon-like visual motifs, with no logos or legible generated text.
+Presenter uses natural conversational gestures and a friendly, informed
+expression. Slow, subtle camera push-in. Keep the lower third clear for editor
+captions. Light newsroom ambience, no dramatic graphics.
+
+VOICEOVER
+Namaskar dosto! Aaj ki news roundup mein baat karenge election-related hearings,
+personal choice, Rajasthan se aaye ek allegation, aur Saudi Arabia mein Indian
+citizens ki safety ki. Facts ko facts rakhenge, claims ko claims, aur speculation
+ko comments section ke liye bhi thoda kam hi chhodenge. Chaliye shuru karte hain.
+
+ON-SCREEN TEXT
+FACTS, CLAIMS, CONTEXT
+
+SCENE 3 | HARYANA SIR HEARINGS
+Approximate duration: 25-35 seconds
+
+VIDEO PROMPT
+Create illustrative administrative b-roll in Haryana, India: a quiet public
+service office waiting area, people seated at a respectful distance, staff
+sorting plain unmarked paper files, then a simple abstract queue graphic with
+many dots reducing to fewer dots. Use a neutral government-office setting with
+no visible seals, personal data, readable forms, real official branding, or
+identifiable citizens. End with a wide shot of an orderly corridor. Calm,
+fact-focused tone; a tiny visual hint of the queue shortening can carry the
+script's dry humor without mocking people waiting for hearings.
+
+VOICEOVER
+Haryana ke Chief Electoral Officer ne pending Special Intensive Revision,
+yaani SIR notices par teen din ka drive chalaya. Is dauraan 57,339 pending
+hearing cases dispose kiye gaye. Ab bhi 2,85,834 cases hearing ka wait kar rahe
+ hain. Teen din mein itne cases clear hona ek significant update hai. Lekin
+ 2.85 lakh log ab bhi queue mein hain, toh kaam khatam nahi, bas queue thodi chhoti hui
+hai. Sarkari process mein “pending” shabd ka stamina kabhi underestimate mat
+kijiye.
+
+ON-SCREEN TEXT
+HARYANA SIR HEARINGS
+57,339 cases disposed
+2,85,834 still awaiting hearings
+Source: The Hindu
+
+SCENE 4 | KERALA HIGH COURT: ATTIRE AND CHOICE
+Approximate duration: 25-35 seconds
+
+VIDEO PROMPT
+Create respectful, non-literal editorial visuals about personal clothing
+choice and access to a workplace. Show a woman educator from behind choosing
+between a sari and a churidar-kameez in a simple wardrobe scene, then walking
+through a bright school corridor. Cut to a symbolic courthouse exterior in
+Kerala with no readable sign, no judge, no courtroom reenactment, and no real
+person likeness. Add a gentle visual gag: a clothing hanger beside a tiny
+imaginary stack of law books, understated and tasteful. Warm daylight, dignified
+and non-mocking. Leave clear space for editor captions.
+
+VOICEOVER
+Kerala High Court ne kaha ki attire, yaani kapdon ka chunav, ek citizen ki
+personal choice hai. Case Kollam ke ek school headmistress ki petition se juda
+tha. Unka allegation tha ki churidar-kameez pehenne par school manager ne unhe
+entry nahi di, jabki woh sari ke bajay ye outfit pehen kar aayi thi. Court ka
+point simple hai: kapde pehenne wale ke, choice bhi pehenne wale ki. Kapdon par
+dress code debate kabhi-kabhi itni lambi chalti hai ki lagta hai wardrobe ko bhi
+apna legal counsel rakhna padega.
+
+ON-SCREEN TEXT
+KERALA HIGH COURT
+“Attire is a citizen’s choice”
+Source: The Hindu
+
+SCENE 5 | RAJASTHAN: REPORTED DETENTION CLAIM
+Approximate duration: 20-30 seconds
+
+VIDEO PROMPT
+Create a restrained, clearly illustrative scene for a developing news report:
+a generic Rajasthan city street in daylight, a public noticeboard with blank
+paper, and a calendar page with an unmarked date shape. Use an empty street or
+wide public space only; do not show a person being stopped, arrested, detained,
+questioned, or placed in a vehicle. Do not show police insignia, identifiable
+officers, the named spokesperson, or an event presented as verified. Shift to
+a neutral abstract graphic of a speech bubble beside a question mark, signaling
+that this is a reported claim with details still unclear. Serious, measured
+visual tone, no dramatic shadows or sirens.
+
+VOICEOVER
+Citizens for Justice and Peace, yaani CJP, ne claim kiya hai ki unke
+spokesperson ko Rajasthan Police ne pick up kiya. CJP ke mutabik, yeh October 10
+ko planned protest se pehle hua. Abhi available report mein detention ki wajah
+par poori clarity nahi hai, isliye isse allegation ke roop mein hi report karna
+zaroori hai. Yahan facts se aage jaana theek nahi hoga. Aage ki details saamne
+aayengi toh picture clearer hogi; tab tak headline ko headline hi rehne dete
+hain, courtroom ka verdict nahi banate.
+
+ON-SCREEN TEXT
+REPORTED CLAIM | DETAILS UNCLEAR
+CJP alleges spokesperson was picked up
+Source: The Indian Express
+
+SCENE 6 | SAUDI ARABIA SAFETY ADVISORY
+Approximate duration: 20-30 seconds
+
+VIDEO PROMPT
+Create calm public-safety visuals, not conflict footage. Show an Indian
+traveller in a quiet apartment in Saudi Arabia checking a phone notification
+with no readable text, closing curtains, and contacting family by video call.
+Cut to a generic map route between India and Saudi Arabia using simple lines
+without disputed borders or military markings. Do not depict an attack, weapon,
+explosion, injured people, panic, or the advisory as an official document.
+Comforting natural light and steady camera. Finish on the traveller safely
+indoors, attentive to their phone.
+
+VOICEOVER
+Saudi Arabia mein Indian Embassy ne citizens ko indoors rehne ki advisory di.
+Yeh advisory region mein Houthi attack ke baad aayi hai. Saudi Arabia mein reh
+rahe Indians ko local authorities ke instructions follow karne chahiye aur
+embassy ki updates par nazar rakhni chahiye. Is story mein punchline se zyada
+zaroori precaution hai. Agar aap ya aapke family members wahan hain, official
+advisory ko priority dijiye aur safe rahiye.
+
+ON-SCREEN TEXT
+SAFETY ADVISORY
+Indians in Saudi Arabia: follow official updates
+Source: The Indian Express
+
+SCENE 7 | OUTRO AND SOURCES
+Approximate duration: 12-18 seconds
+
+VIDEO PROMPT
+Return to the same presenter and newsroom from Scene 2 for visual continuity.
+Presenter gives a warm, concise sign-off. On the background display, show four
+clean generic source-link bars or neutral publication-name placeholders to be
+added in editing; do not generate logos or text. End with a simple fade to a
+dark neutral background and clear empty space for the editor to add subscribe
+and source-link graphics. Friendly, responsible, understated ending.
+
+VOICEOVER
+Toh dosto, aaj ki updates mein process, personal choice, ek reported allegation
+aur ek important safety advisory shamil thi. Sources ke links description mein
+hain, khud bhi check kijiye, aur kisi bhi developing story par nayi verified
+information ka wait kijiye. Video useful laga ho toh like aur subscribe karein.
+Milte hain next update mein. Tab tak informed rahiye, safe rahiye, aur headlines
+ko forward karne se pehle ek baar source zaroor dekh lijiye. Namaskar!
+
+END CARD TEXT TO ADD IN EDITOR
+Sources in description
+Like | Subscribe | Stay informed
+
+SOURCE LINKS
+1. The Hindu - Haryana SIR hearings
+https://www.thehindu.com/news/national/haryana/haryana-ceo-launches-three-day-drive-to-clear-pending-sir-notices/article71560408.ece
+
+2. The Hindu - Kerala High Court attire ruling
+https://www.thehindu.com/news/national/kerala/attire-is-a-citizens-choice-kerala-hc-backs-school-headmistress-over-churidar-row/article71558732.ece
+
+3. The Indian Express - CJP spokesperson detention claim
+https://indianexpress.com/article/india/cjp-claims-spokesperson-deepak-baliyan-picked-up-by-rajasthan-police-ahead-of-october-10-protest-10913090/
+
+4. The Indian Express - Saudi Arabia safety advisory
+https://indianexpress.com/article/india/indian-embassy-in-saudi-issues-advisory-to-stay-indoors-after-houthi-attack-10912946/
